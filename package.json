@@ -1,0 +1,11 @@
+{
+  "name": "linus-taf-parser",
+  "version": "1.0.0",
+  "description": "Small project to take TAF (Terminal Area Forecast) Weather Forecast strings and decode them",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Linus Go",
+  "license": "ISC"
+}
